@@ -7,8 +7,7 @@ import sort.BubbleSort;
 public class a {
 
 	public static void main(String[] args) {
-		Integer i = 22;
-		System.out.println(i.hashCode());
+		
 	}
 
 }
