@@ -10,14 +10,6 @@ import java.util.Set;
  */
 public class Test {
 	public static void main(String[] args) {
-		char[] c = { 'q', 'y', 'w', 'y', 'q', '2', '3', 't', 't', 'd', 'd', 's' };
-		Set set = new LinkedHashSet();
-        for(int i = 0;i<c.length;i++){
-        	set.add(c[i]);
-        }
-		Iterator it = set.iterator();
-		while (it.hasNext()) {
-			System.out.print(it.next() + ",");
-		}
+
 	}
 }
