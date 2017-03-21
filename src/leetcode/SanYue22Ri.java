@@ -8,6 +8,6 @@ import java.util.regex.Pattern;
  */
 public class SanYue22Ri {
 	public static void main(String[] args) {
-		System.out.println();
+		
 	}
 }
